@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "my-attendance-app",
-    "slug": "my-attendance-app",
+    "slug": "monday-autologin",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,16 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "sdkVersion": "56.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "512bb16a-f341-4f93-819c-13e56b1cc06c"
+      }
     }
   }
 }
