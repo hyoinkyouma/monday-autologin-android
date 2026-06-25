@@ -2,9 +2,14 @@
   "expo": {
     "name": "my-attendance-app",
     "slug": "monday-autologin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "androidStatusBar": {
+      "barStyle": "dark-content",
+      "backgroundColor": "#FFFFFF",
+      "translucent": false
+    },
     "userInterfaceStyle": "light",
     "ios": {
       "supportsTablet": true
