@@ -27,7 +27,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "sdkVersion": "56.0.1",
+    "sdkVersion": "54.0.0",
     "platforms": [
       "ios",
       "android"
