@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "my-attendance-app",
+    "name": "Monday AutoLogin",
     "slug": "monday-autologin",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "androidStatusBar": {
@@ -27,7 +27,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "sdkVersion": "56.0.0",
+    "sdkVersion": "56.0.1",
     "platforms": [
       "ios",
       "android"
