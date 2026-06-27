@@ -9,7 +9,7 @@ export default function App() {
       <StatusBar barStyle="light-content" backgroundColor="#0A0C10" translucent={false} /> 
       
       <WebView 
-        source={{ uri: 'https://monday-form-automator-production.up.railway.app/' }} 
+        source={{ uri: 'https://monday-form-automator-production.up.railway.app/android' }} 
         style={styles.webview}
         javaScriptEnabled={true}
         domStorageEnabled={true}
